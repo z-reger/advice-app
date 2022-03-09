@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with Create React App, ReactJS API data fetching project from scratch - A React Advice App. We're going to use React on the front end and we'll make get requests to Advice Slip JSON API.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
